@@ -55,6 +55,7 @@ Zestimate API - Takes an extenstive amount of time to match each address within 
   * NB1 - NB3 contains code to clean Zillow dataset: mostly dropping NULLS and columns.
   * NB4 is the function that creates a base demographic dataset using the Zillow zipcodes.
   * NB5 is the folium function that renders a map and circles that will display the demographic info based on zips that feed into it. 
+  * NB6 is the Zillow API that will generate distribution of housing values for a given set of zips.
 <br><br>
 
 2. ***Data*** Folder, 4 files
