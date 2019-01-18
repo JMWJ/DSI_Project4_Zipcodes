@@ -75,7 +75,7 @@ Zestimate API - Takes an extenstive amount of time to match each address within 
 
 ## Contributors
 --
-Mason Childress - masonrchildress@gmail.com
-Katy Chow - kchow1989@gmail.com
-Cesar Mendoza - tecougarali@gmail.com
-Joey Ward - josephmwardjr@gmail.com
+ * Mason Childress - masonrchildress@gmail.com
+ * Katy Chow - kchow1989@gmail.com
+ * Cesar Mendoza - tecougarali@gmail.com
+ * Joey Ward - josephmwardjr@gmail.com
