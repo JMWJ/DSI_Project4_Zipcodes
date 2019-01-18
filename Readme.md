@@ -74,7 +74,7 @@ Zestimate API - Takes an extenstive amount of time to match each address within 
 3. Enrich display with Zestimate API data
 
 ## Contributors
---
+---
  * Mason Childress - masonrchildress@gmail.com
  * Katy Chow - kchow1989@gmail.com
  * Cesar Mendoza - tecougarali@gmail.com
