@@ -1,4 +1,4 @@
-# Project 4 - The Client Project 
+# Project 4 - [The Client Project](https://docs.google.com/presentation/d/12kwYfeeMrKfUh6QJ4mD7Ro-iDujoKM3ZGPuAu1rD7ww/edit?usp=sharing) 
 
 ---
 The ***objective*** of the client project is to ***use zipcodes to proxy home values and loss in event of disaster***. Our project consists of building a tool to return housing and population metrics in a given zipcode.  The user will feed the code with a comma delimited list of affected areas (zip codes, can be int or str format) as input, and retrieve the current property values.  
