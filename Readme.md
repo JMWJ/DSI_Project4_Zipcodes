@@ -72,3 +72,10 @@ Zestimate API - Takes an extenstive amount of time to match each address within 
 1. Find a data source that has complete housing information base on zipcodes
 2. Enrich disaster economic loss function sliced by types of disasters.  
 3. Enrich display with Zestimate API data
+
+## Contributors
+--
+Mason Childress - masonrchildress@gmail.com
+Katy Chow - kchow1989@gmail.com
+Cesar Mendoza - tecougarali@gmail.com
+Joey Ward - josephmwardjr@gmail.com
